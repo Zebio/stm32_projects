@@ -1,0 +1,17 @@
+.metadata
+.settings
+
+/blink_led*
+/external_interruptions/*
+
+!/blink_led/Core
+!/external_interruptions/Core
+
+
+/blink_led/Core/*
+/!blink_ledCore/Src
+
+
+/external_interruptions/Core/*
+/!external_interruptions/Core/Src
+
