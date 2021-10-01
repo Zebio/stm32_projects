@@ -1,7 +1,7 @@
 .metadata
 .settings
 
-/blink_led*
+/blink_led/*
 /external_interruptions/*
 
 !/blink_led/Core
@@ -9,9 +9,9 @@
 
 
 /blink_led/Core/*
-/!blink_ledCore/Src
+!/blink_led/Core/Src
 
 
 /external_interruptions/Core/*
-/!external_interruptions/Core/Src
+!/external_interruptions/Core/Src
 
